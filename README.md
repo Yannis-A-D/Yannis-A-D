@@ -1,10 +1,6 @@
 
-
-<!--
-**Yannis-A-D/Yannis-A-D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-[ReadMe.md](https://github.com/user-attachments/files/25499403/ReadMe.md)# 💫 About Me:
+[ReadMe.md](https://github.com/user-attachments/files/25517131/ReadMe.md)
+# 💫 About Me:
 I am working on python Application and have experiance developing with Js, Java, Python, C++ and luau
 
 
@@ -22,4 +18,3 @@ I am working on python Application and have experiance developing with Js, Java,
 [![](https://visitcount.itsvg.in/api?id=Yannis-A-D&icon=0&color=4)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
