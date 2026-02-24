@@ -1,5 +1,4 @@
 
-[ReadMe.md](https://github.com/user-attachments/files/25517131/ReadMe.md)
 # 💫 About Me:
 I am working on python Application and have experiance developing with Js, Java, Python, C++ and luau
 
